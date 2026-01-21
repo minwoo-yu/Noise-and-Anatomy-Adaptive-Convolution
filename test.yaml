@@ -1,0 +1,19 @@
+dataset:
+  mode: "N2C"
+  dose_level: 0.1
+  blur: false
+  N_in: 5e5
+  sigma_e: 2
+  batch_size: 1
+  
+model:
+  name: ""
+  level: ""
+  backbone: ""
+
+N_augment:
+  N_ch: 10
+  N_corr: true
+
+n_threads: 4
+cpu: false
