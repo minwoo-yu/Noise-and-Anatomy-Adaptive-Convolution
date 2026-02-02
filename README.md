@@ -14,6 +14,7 @@ This project contains redesigned convolution operation implemented using OpenAI 
 
 ![Results for DnCNN](dncnn.png)
 ![Results for unet](unet.png)
+(DnCNN4 & U-Net4 are ours)
 
 ## Acknowledgements
 Our implementation is primarily inspired by [Fast and High Quality Image Denoising via Malleable Convolution](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780420.pdf),
